@@ -1,0 +1,5 @@
+{
+  "name": "Job Fair Prep Assistant",
+  "description": "An interactive study guide and mock interviewer for your upcoming Job Fair, covering JS, React, Vue, Backend, and more.",
+  "requestFramePermissions": []
+}
